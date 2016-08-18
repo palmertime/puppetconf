@@ -1,0 +1,25 @@
+{
+	"name": "mpalmer-puppetconf",
+	"version": "1.0.2",
+	"author": "Michael Palmer",
+	"license": "Apache-2.0",
+	"summary": "A module for puppet.conf editing",
+	"source": "https://",
+	"tags": ["puppet.conf", "config"],
+	"operatingsystem_support": [
+	{
+		"operatingsystem":"OracleLinux",
+		"operatingsystemrelease":[ "6.0", "7.0" ]
+	},
+	{
+		"operatingsystem":"RedHat",
+		"operatingsystemrelease":[ "6.0", "7.0" ]
+	},
+	{
+		"operatingsystem":"Solaris",
+		"operatingsystemrelease":[ "10" ]
+	}
+	],
+	"dependencies": [
+	]
+}
